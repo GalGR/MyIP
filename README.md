@@ -1,6 +1,7 @@
 # MyIP
 
 Run the file `myip.py` to get your external IP address.
+Give as command line argument the IP address or the domain name of the server to connect to.
 
 ## ip.cfg
 
